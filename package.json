@@ -1,0 +1,19 @@
+{
+    "name": "nodebot",
+    "version": "0.0.1",
+    "homepage": "https://github.com/jweakley/nodebot",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:jweakley/nodebot.git"
+    },
+    "description": "Johnny five claw",
+    "dependencies": {
+        "johnny-five": "",
+        "keypress": ""
+    },
+    "main": "app.js",
+    "engines": {
+        "node": "0.10.x",
+        "npm": "1.2.x"
+    }
+}
